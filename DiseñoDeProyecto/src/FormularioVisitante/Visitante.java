@@ -7,6 +7,8 @@ import javax.swing.JOptionPane;
 import org.jdesktop.swingx.prompt.PromptSupport;
 
 
+/*Comparta en un archivoo comprimido los componentes que hacen
+falta para poder ejecutar el proyecto porfa!*/
 
 public class Visitante extends javax.swing.JFrame {
 
